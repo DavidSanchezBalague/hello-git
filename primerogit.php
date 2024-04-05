@@ -1,3 +1,3 @@
 <?php
-echo "nuevo primer archivo de la carpeta git"
+echo "nuevo primer archivo de la carpeta git previa github"
 ?>
