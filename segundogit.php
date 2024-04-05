@@ -1,3 +1,3 @@
 <?php
-echo "segundo archivo";
+echo "segundo archivo del segundo ";
 ?>
