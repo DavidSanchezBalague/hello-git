@@ -1,3 +1,3 @@
 <?php
-echo "loginc";
+echo "loginc v2";
 ?>
